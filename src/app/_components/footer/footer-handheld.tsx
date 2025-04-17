@@ -8,7 +8,7 @@ export default function FooterHandheld() {
           <span className="flex text-sm"> Contact </span>
           <span className="flex text-sm"> Services </span>
           <span className="flex text-sm"> Resume </span>
-          <div className="h-[2px] mt-2 w-full bg-white"></div>
+          <div className="h-[2px] my-2 w-full bg-white"></div>
           <div className="text-sm">
             <span className="text-sm">GitHub</span>
             {" | "}
