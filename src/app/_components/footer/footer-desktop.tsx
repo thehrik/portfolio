@@ -14,16 +14,10 @@ export default function FooterDesktop() {
           </span>
         </div>
         <div className="h-full w-[2px] bg-white"></div>
-        <div className="flex w-[350px] flex-col gap-2 pl-10">
-          <span className="flex text-sm">
-            {" "}
-            I'm a developer who is still in the process of learning and always
-            will be. Being a self-taught developer I'm always looking for new
-            opportunities to learn and grow. I'm passionate about technology and
-            I always look for new ways to improve my skills. Right now my main
-            focus is on web and app development using React, React Native, and
-            Next.js. I'm also trying to learn docker and shell scripting.
-          </span>
+        <div className="flex h-[80%] w-[350px] flex-col gap-2 pl-10">
+          <span className="text-sm">GitHub</span>
+          <span className="text-sm">LinkedIn</span>
+          <span className="text-sm">Twitter</span>
         </div>
       </div>
     </div>

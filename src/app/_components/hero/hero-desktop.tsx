@@ -7,7 +7,7 @@ export default function HeroDesktop() {
           <span className="text-[40px] font-bold text-[#0059b3] dark:text-[#80bfff]">
             Subhajit Malakar
           </span>
-          <span className="text-sm">
+          <span className="md:max-w-110 lg:max-w-150 text-sm">
             Im a just a enthusiast developer who loves to build cool stuffs.
             <br />
             Specialities: NEXTJS, DOCKER, SHELL

@@ -8,18 +8,15 @@ export default function FooterHandheld() {
           <span className="flex text-sm"> Contact </span>
           <span className="flex text-sm"> Services </span>
           <span className="flex text-sm"> Resume </span>
-          <div className="h-[2px] w-full bg-white"></div>
-          <span className="flex text-sm">
-            {" "}
-            I'm a developer who is still in the process of learning and always
-            will be. Being a self-taught developer I'm always looking for new
-            opportunities to learn and grow. I'm passionate about technology and
-            I always look for new ways to improve my skills. Right now my main
-            focus is on web and app development using React, React Native, and
-            Next.js. I'm also trying to learn docker and shell scripting.
-          </span>
-          <span className="pt-4 text-sm">
-            {" "}
+          <div className="h-[2px] mt-2 w-full bg-white"></div>
+          <div className="text-sm">
+            <span className="text-sm">GitHub</span>
+            {" | "}
+            <span className="text-sm">LinkedIn</span>
+            {" | "}
+            <span className="text-sm">Twitter</span>
+          </div>
+          <span className="pt-2 text-sm">
             Made with ❤️ by Subhajit aka Hrik{" "}
           </span>
         </div>

@@ -6,7 +6,7 @@ export default function HeroHandheld() {
         <span className="text-[30px] font-bold text-[#0059b3] dark:text-[#80bfff]">
           Subhajit Malakar
         </span>
-        <span className="pt-5 text-sm">
+        <span className="pt-6 text-sm">
           Im a just a enthusiast developer who loves to build cool stuffs.
           <br />
           Specialities: NEXTJS, DOCKER, SHELL
